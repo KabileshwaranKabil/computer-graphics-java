@@ -1,0 +1,43 @@
+# ==========================================
+# Java Compiler Garbage
+# ==========================================
+*.class
+*.jar
+*.war
+*.ear
+
+# ==========================================
+# Development Build Directories
+# ==========================================
+bin/
+out/
+build/
+target/
+
+# ==========================================
+# IDE Specific Configuration Files
+# ==========================================
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+
+# ==========================================
+# Operating System System Files
+# ==========================================
+.DS_Store
+Thumbs.db
